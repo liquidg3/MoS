@@ -1,5 +1,6 @@
 
 //Lets see if this works
+//It does
 #include <Adafruit_CC3000.h>
 #include <SPI.h>
 #include <Wire.h>
